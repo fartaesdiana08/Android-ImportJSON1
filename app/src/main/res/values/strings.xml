@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ImportJSON1</string>
+    <string name="denumire">Denumire</string>
+    <string name="pret_timbru">Pret timbru</string>
+    <string name="calitate">Calitate</string>
+    <string name="ecologic">ecologic</string>
+    <string name="error1">Introduceti denumirea!</string>
+    <string name="error2">Introduceti valoare calitate!</string>
+    <string name="importa_din_json">Importa din JSON</string>
+
+    <string-array name="culoare">
+        <item>Rosu</item>
+        <item>Negru</item>
+        <item>Verde</item>
+        <item>Albastru</item>
+    </string-array>
+
+</resources>
